@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MCU_RaspberryPi_and_Boards:PGA2350"
 			(at 0 0 0)
 			(effects
 				(font
